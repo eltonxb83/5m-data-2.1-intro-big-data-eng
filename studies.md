@@ -8,6 +8,7 @@ In this lesson, we will be learning about the concept of big data and data engin
 
 - [Introduction to Big Data](https://www.digitalocean.com/community/tutorials/an-introduction-to-big-data-concepts-and-terminology)
 
+
 ### JSON
 
 Read up on JSON to understand the syntax and structure, as MongoDB stores data in a JSON-like format.
